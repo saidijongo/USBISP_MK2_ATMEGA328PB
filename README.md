@@ -13,3 +13,4 @@ https://www.st.com/en/evaluation-tools/stm32h743i-eval.html#cad-resources
 [https://github.com/UsefulElectronics/stm32-soft-debounce-adc-buttons-read/blob/main/Core/Src/main.c
 ](https://github.com/UsefulElectronics/stm32-soft-debounce-adc-buttons-read/blob/main/Core/Src/main.c)https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/
 
+https://www.researchgate.net/publication/338366789_Development_of_a_Prototype_for_Monitoring_Photovoltaic_Self-Consumption_Systems
